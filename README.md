@@ -23,7 +23,7 @@ Pipeline completo de **Extração e Preparação de Dados** que consome em tempo
 
 ## 🛠️ Tecnologias
 
-`Python` • `Pandas` • `Folium` • `Google Colab` • `REST API`
+`Python` • `Pandas` • `Folium` • `Google Colab` • `REST API`, `Streamlit`
 
 ---
 
